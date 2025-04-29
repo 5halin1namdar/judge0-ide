@@ -1,5 +1,5 @@
 /* sw.js  – offline-first service worker */
-const CACHE = 'judge0-ide-v1';
+const CACHE = 'citi-code-craft-v1';
 
 /* List *every* local asset you want available offline. */
 const ASSETS = [

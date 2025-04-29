@@ -1,11 +1,11 @@
 {
-    "name": "Judge0 IDE",
-    "short_name": "Judge0 IDE",
+    "name": "Citi Code Craft",
+    "short_name": "Citi Code Craft",
     "description": "Free and open-source online code editor and compiler",
     "display": "standalone",
     "start_url": "/",
     "scope": "/",
-    "theme_color": "#ffffff",
+    "theme_color": "#2185d0",
     "background_color": "#ffffff",
     "icons": [
         {
